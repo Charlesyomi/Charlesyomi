@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charles
 - 👀 I’m interested in developing really good and interactive websites
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning react js and i'm passionate about learning new things
 - 💞️ I’m looking to collaborate on any web project
 - 📫 How to reach me yomiadesoba@gmail.com
 
